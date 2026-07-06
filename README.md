@@ -1,18 +1,17 @@
-### Hi there, It's echo.
+### Hi there, It's echo.🫣
 
 I design and develop anything for web applications.
 
-### `21 years old. Fourth Year College Student`
 ### `A Front-end Web Developer`
 
 ### Contact: ☎️
 
-[![Gmail](https://img.shields.io/badge/JERICHOCONDESA-8686F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Twitter](https://img.shields.io/badge/BADATOEUGENEPAULM-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+(https://img.shields.io/badge/JERICHOCONDESA-8686F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 
 ### About: ⭐
 
-- 💼 Front-End Developer.
+- 💻 Front-End Developer.
 - 🔭 I'm looking for connections in **Web Development** and **Web Design** Industry.
 - 💬 Feel free to discuss with me about **Web Design, Web Development**
 - 🎧 See my [Personal Portfolio](https://yourportfolio.com) to get more info

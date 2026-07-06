@@ -1,4 +1,4 @@
-### Hi there, It's echo.🫣
+### Hi there, It's <span style="color:green">ECHO</span>.🫣
 
 I design and develop anything for web applications.
 
@@ -6,8 +6,7 @@ I design and develop anything for web applications.
 
 ### Contact: ☎️
 
-(https://img.shields.io/badge/JERICHOCONDESA-8686F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/JERICHOCONDESA%40GMAIL.COM-8686F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerichocondesa@gmail.com) 
 
 ### About: ⭐
 

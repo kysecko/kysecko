@@ -2,7 +2,7 @@
 
 I design and develop anything for web applications.
 
-### `A Front-end Web Developer`
+### `A Front-End Web Developer`
 
 ### Contact: ☎️
 

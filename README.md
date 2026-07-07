@@ -12,7 +12,7 @@ I design and develop anything for web applications.
 
 - 💻 Front-End Developer.
 - 🔭 I'm looking for connections in **Web Development** and **Web Design** Industry.
-- 💬 Feel free to discuss with me about **Web Design, Web Development**
+- 💬 Feel free to discuss with me about **Web Design**  & **Web Development**
 - 🎧 See my [Personal Portfolio](https://yourportfolio.com) to get more info
 
 ## Tools, Frameworks & Languages: 🛠️
